@@ -1,0 +1,9 @@
+{
+  "name": "Selenium",
+  "version": "1.0.0",
+  "dependencies": {
+    "jest": "^29.4.3",
+    "selenium-webdriver": "^4.8.1",
+    "underscore": "^1.13.6"
+  }
+}
